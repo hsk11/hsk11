@@ -7,10 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/hsk11?label=Follow&style=social)](https://github.com/hsk11)
 ---
 
-I'm a Full stack Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, and frameworks from scratch.  
+I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products,  and frameworks from scratch.  
 
-- 🔭 I’m currently working on building Full Stack JS Framework
-- 🌱 I’m currently learning : GoLang
+
 
 ## :electric_plug::desktop_computer: Tech Stack
 - Pogramming Languages : Javascript, Node.js, Golang , Python , Php
