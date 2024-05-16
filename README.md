@@ -13,9 +13,9 @@ I'm a Full stack Engineer but more inclined towards backend software development
 - 🌱 I’m currently learning : GoLang
 
 ## :electric_plug::desktop_computer: Tech Stack
-- Pogramming Languages : JS (80%), Golang(7%), Python(5%), Php (5%), 
-- DB : Mysql, SQL, Mongo
-- Tech : NodeJS, react, vue js, Jai-JS, amqp, wordpress, shopify
+- Pogramming Languages : Javascript, Node.js, Golang , Python , Php
+- DB : Mysql, SQL, MongoDb, DynomoDb
+- Tech : NodeJS, React.js, RabbitMbQ, Kafka, Vue.js, Jai.js, amqp, wordpress, shopify
 
 
 <details>
