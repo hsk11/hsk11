@@ -1,43 +1,49 @@
-# Hi there 👋, I'm Harpal Singh
 
+# Harpal Singh 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com/intent/follow?screen_name=hsk11dev)  [![LinkedIn](https://img.shields.io/badge/-hsk11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsk11)](https://www.linkedin.com/in/hsk11/)  [![GitHub Followers](https://img.shields.io/github/followers/hsk11?label=Follow&style=social)](https://github.com/hsk11)
+
+
+## About Me
+Experienced Full-Stack Software Engineer specializing in backend development, with a passion for building high-performance frameworks and SAAS solutions. I focus on creating robust, scalable systems and enjoy tackling complex architectural challenges.
+
+## 🚀 Jai.js Ecosystem | **[Jai.js GitHub](https://github.com/jaijs)**
+Creator of the Jai.js framework ecosystem (open-source) - a collection of high-performance Full Stack Node.js modules:
+- **[Jai Server](https://www.npmjs.com/package/jai-server)**: A fast, powerful, and robust web framework for building APIs in Node.js (4x faster than Express.js).
+- **[Jai Static](https://www.npmjs.com/package/jai-static)**: A flexible Node.js module for serving static files like images, videos, PDFs, etc., with minimal setup.
+- **[Jai Body Parser](https://www.npmjs.com/package/jai-body-parser)**: A simple and fast Nodejs module for parsing API request bodies.
+- **[Multi-part Form Data Upload](https://www.npmjs.com/package/multi-part-form-data-upload)**: A complete solution for handling multipart/form-data file uploads in Node.js.
+- **[Env-Hide](https://www.npmjs.com/package/env-hide)**: Secure your `.env` files with encryption to protect sensitive environment variables.
+
+  
+## 💻 Technical Expertise
+
+### Languages
+- JavaScript/Node.js
+- TypeScript
+- Golang
+- Python
+- PHP
+
+### Databases
+- MySQL/SQL
+- MongoDB
+- DynamoDB
+- ClickHouse
+
+### Technologies & Frameworks
+- React.js
+- Vue.js
+- AWS
+- RabbitMQ
+- Apache Kafka
+- Custom SAAS Development
+- Shopify
+- WordPress
+
+  
+I am passionate about building high-performance software that meets the needs of modern applications. I enjoy system design challenges and creating solutions that scale efficiently.
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com/intent/follow?screen_name=hsk11dev)
-[![Linkedin: Harpal Singh](https://img.shields.io/badge/-hsk11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsk11)](https://www.linkedin.com/in/hsk11/)
-[![GitHub followers](https://img.shields.io/github/followers/hsk11?label=Follow&style=social)](https://github.com/hsk11)
----
 
-I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products,  and frameworks from scratch.  
-
-
-
-## :electric_plug::desktop_computer: Tech Stack
-- Pogramming Languages : Javascript, Node.js, Golang , Python , Php
-- DB : Mysql, SQL, MongoDb, DynomoDb
-- Tech : NodeJS, React.js, RabbitMbQ, Kafka, Vue.js, Jai.js, amqp, wordpress, shopify
-
-
-<details>
-<summary>⚡️ More about my github profile</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsk11&layout=compact&hide=css,html)
-
-![Harpal Singh's github stats](https://github-readme-stats.vercel.app/api?username=hsk11&count_private=true&show_icons=true&theme=onedark)
-
-</details>
-
-<!--
-**hsk11/hsk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building performant solutions for complex problems. Open to collaborations and interesting projects. 😊
