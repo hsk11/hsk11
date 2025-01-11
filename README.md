@@ -47,3 +47,7 @@ I am passionate about building high-performance software that meets the needs of
 ---
 
 Building performant solutions for complex problems. Open to collaborations and interesting projects. 😊
+
+🎨: Basketball, Bicycling, Travelling, Adventures
+#nodejs #Typescript #react.js #javascript
+Tags: NodeJS Developer, Javascipt/Typescript Developer, API Developer, Project Team Lead, Product Manager, Node.js Dev, React.js, Tech Lead, Engineer Manager
