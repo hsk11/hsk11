@@ -7,6 +7,9 @@
 ## About Me
 Experienced Full-Stack Software Engineer specializing in backend development, with a passion for building high-performance frameworks and SAAS solutions. I focus on creating robust, scalable systems and enjoy tackling complex architectural challenges.
 
+# Best Photo Editor 
+Pixoate is one of the Best all in one Destination for [online photo editor](https://pixoate.com/photo-editor) with 180+ Tools inside it, 7000+ Templates, 21000+ background images, Elements, 6000+ Photo effects, Resize canvas anytime and much more
+
 ## 🚀 Jai.js Ecosystem | **[Jai.js GitHub](https://github.com/jaijs)**
 Creator of the Jai.js framework ecosystem (open-source) - a collection of high-performance Full Stack Node.js modules:
 - **[Jai Server](https://www.npmjs.com/package/jai-server)**: A fast, powerful, and robust web framework for building APIs in Node.js (4x faster than Express.js).
@@ -35,6 +38,8 @@ Creator of the Jai.js framework ecosystem (open-source) - a collection of high-p
 - React.js
 - Vue.js
 - AWS
+- AI
+- AI Workflows and automation
 - RabbitMQ
 - Apache Kafka
 - Custom SAAS Development
